@@ -1,8 +1,8 @@
 import streamlit as st
 import openai
 
-#openai.api_key=st.secrets["api_key"]
-openai.api_key="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"
+openai.api_key=st.secrets["api_key"]
+#openai.api_key="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"
 
 st.title("ChatGPT Dall-E!")
 
