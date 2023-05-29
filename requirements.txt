@@ -1,2 +1,3 @@
 openai
-streamlib
+#streamlib
+pip version == 23.1.2
